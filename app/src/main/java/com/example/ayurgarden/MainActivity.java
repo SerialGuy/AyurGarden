@@ -23,6 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void onClickMenu(View v){
-
+        System.out.println("clicked menu");
     }
 }
